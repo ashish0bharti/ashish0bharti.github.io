@@ -1,4 +1,0 @@
-Sitemap: https://ashishbharti.com/sitemap.xml
-
-User-agent: *
-Allow: /
