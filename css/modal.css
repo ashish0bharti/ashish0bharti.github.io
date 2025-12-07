@@ -51,3 +51,10 @@
             text-decoration: none;
             cursor: pointer;
         }
+
+.disclaimer {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 14px;
+    color: #444;
+}
